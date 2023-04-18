@@ -35,19 +35,19 @@ Kaduva Malayalam Movie ❌
 Kaduva 2022 ✅
  Kaduva ✅</i>"""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/freakersfilterbot>ʀᴏʟᴇx</a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
-🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/Freakers_Filmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+HxPeOzEU3nlmMTdl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-📺 sᴇʀɪᴇs ɢʀᴏᴜᴘ : <a href=https://t.me/FF_Series_Only>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🎙 sᴇʀɪᴇs ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+4NvHgqi9_FRhNjY1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-📺 sᴇʀɪᴇs ʙᴏᴛ  : <a href=https://t.me/ffseriesbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🔞 18+ ʙᴏᴛ : <a href=https://t.me/A4_Adultsbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://t.me/freakersfilmy>ᴘʏᴛʜᴏɴ 3</a>\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://t.me/FF_Series_Only>ᴘʏʀᴏɢʀᴀᴍ</a>\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://railway.app/>ʀᴀɪʟᴡᴀʏ</a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=>ᴍᴀɴᴀғ</a>\n
+🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📺 sᴇʀɪᴇs ɢʀᴏᴜᴘ : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎙 sᴇʀɪᴇs ᴜᴘᴅᴀᴛᴇs : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📺 sᴇʀɪᴇs ʙᴏᴛ  : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🔞 18+ ʙᴏᴛ : <a href=>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=>ᴘʏᴛʜᴏɴ 3</a>\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=>ᴘʏʀᴏɢʀᴀᴍ</a>\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=>ʀᴀɪʟᴡᴀʏ</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
-⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n
-📨 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ : <a href=https://www.instagram.com/naughty__nonsense/>ɪɴsᴛᴀɢʀᴀᴍ</a></i></b>\n
+⚡️ ᴠᴇʀsɪᴏɴ : <a href=>ᴠ4.0</a>\n
+📨 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ : <a href=>ɪɴsᴛᴀɢʀᴀᴍ</a></i></b>\n
 
 """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -133,14 +133,14 @@ This module only works for my admins
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """<u>#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩</u>
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑰𝒎 𝑹𝑶𝑳𝑬𝑿 𝑴𝒐𝒗𝒊𝒆 𝑩𝒐𝒕\n    
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑰𝒎 𝐀𝐀𝐒𝐇𝐔 𝑴𝒐𝒗𝒊𝒆 𝑩𝒐𝒕\n    
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
 """
     LOG_TEXT_P = """<u>#𝐍𝐞𝐰𝐔𝐬𝐞𝐫</u>  
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑰𝒎 𝑹𝑶𝑳𝑬𝑿 𝑴𝒐𝒗𝒊𝒆 𝑩𝒐𝒕    
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑰𝒎 𝐀𝐀𝐒𝐇𝐔 𝑴𝒐𝒗𝒊𝒆 𝑩𝒐𝒕    
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
 """
