@@ -12,9 +12,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '4011894'))
-API_HASH = environ.get('API_HASH', '56ac06547b5d8af50493e104feed8053')
-BOT_TOKEN = environ.get('BOT_TOKEN', "1781582444:AAFwYhaplG_1YUk_rjrlJN-3XeHxniyaPQc")
+API_ID = int(environ.get('API_ID', '28341884'))
+API_HASH = environ.get('API_HASH', 'ca0c9295ce3ec910fd6f49e99970d9a8')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6001939935:AAFiFiHxphXAky-ecNk-lNwLgR4BFK0FfNw")
 
 #Port
 PORT = environ.get("PORT", "8080")
@@ -25,23 +25,23 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://telegra.ph/file/e866ba79cecd54f7f304d.jpg https://telegra.ph/file/27e31254f0b8b2491222d.jpg https://telegra.ph/file/a241dbccb8acb8a9bb127.jpg https://telegra.ph/file/5ddc32d19996d524d4696.jpg')).split()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '739667270').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001587407813 -1001586815337 -1001517177583 -1001704828885 -1001661137244 -1001506224651 -1001303828522 -1001352972147 -1001418560093 -1001476352943 -1001587647928').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5676827158').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001953150889').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '5676827158').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL', '-1001565856771')
+auth_channel = environ.get('AUTH_CHANNEL', -1001976374324')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://JD:JD@cluster0.8s1sr05.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://aashukr5578:mEkWyhhwVqMFIdPY@cluster0.z49nllu.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001555083458'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'SixFlix')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001843928263'))
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Aashu_support_Group')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
@@ -52,7 +52,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "True"),
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001800483891')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True)
@@ -71,8 +71,8 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shortner.io')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '254cd76e18d21b4295abf39ccecb580a07a0d74d')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shareus.io')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'besby4MY6kXk7BHFkGHNoHLErRU2')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 3600))
@@ -82,10 +82,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "🤔𝙃𝙤𝙬 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙❓"
-DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/363"
+DOWNLOAD_TEXT_URL = ""
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "sᴜʙsᴄʀɪʙᴇ"
-CAPTION_BUTTON_URL = "https://t.me/+4NvHgqi9_FRhNjY1"
+CAPTION_BUTTON_URL = "https://t.me/Movies_Bink"
 
    # Auto Delete For Bot Sending Files #
